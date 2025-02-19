@@ -1,0 +1,8 @@
+cappuccino: 1.30 €
+caffè: 1.00 €
+briocher: 0.80 €
+briocher_marmellata: 1.00 €
+cioccolata: 1.50 €
+spremuta: 1.40 €
+toast: 1.70 €
+panino a scelta con affettato: 3.50 €

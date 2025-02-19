@@ -4,19 +4,21 @@
  * and open the template in the editor.
  */
 package volpintesta.test;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
 
-/**
- *
- * @author User
- */
 public class HelloWorld
 {
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args)
+    static Scanner input = new Scanner (System.in);
+    
+    public static void main(String[] args) throws FileNotFoundException, IOException
     {
-        System.out.println("Hello World!");
+        
     }
     
 }
